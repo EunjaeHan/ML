@@ -1,2 +1,1 @@
-# Stella
-I am just a newbie.
+# I am just a newbie.
